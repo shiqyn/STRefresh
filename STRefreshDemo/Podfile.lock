@@ -1,0 +1,33 @@
+PODS:
+  - BlocksKit (2.2.5):
+    - BlocksKit/All (= 2.2.5)
+  - BlocksKit/All (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/MessageUI (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - Masonry (0.6.1)
+  - NSDate+TimeAgo (1.0.3)
+  - PureLayout (2.0.6)
+
+DEPENDENCIES:
+  - BlocksKit
+  - Masonry
+  - NSDate+TimeAgo
+  - PureLayout
+
+SPEC CHECKSUMS:
+  BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
+  Masonry: 4972309f2f134de9dd312f4dc4a21359b50e6caa
+  NSDate+TimeAgo: 416f55d2696d3744c313091c5a9280d47f8238fe
+  PureLayout: f25f0bb904d5ccfe6e31da3cb869185259f02e0d
+
+COCOAPODS: 0.36.3
