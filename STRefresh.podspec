@@ -7,7 +7,7 @@ s.license			= 'MIT'
 
 s.authors			= { 'Shiqyn' => 'shiqyn@gmail.com'}
 
-s.source			= { :git => 'https://github.com/shiqyn/STRefresh.git', :tag => s.version.to_s }
+s.source			= { :git => 'https://github.com/shiqyn/STRefresh.git' }
 s.platform			= :ios, '6.0'
 s.source_files		= 'STRefresh/*'
 s.frameworks		= 'CoreGraphics'
