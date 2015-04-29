@@ -23,4 +23,4 @@
 
 -(instancetype)initWithFrame:(CGRect)frame logoImage:(UIImage*)logoImg;
 -(void)setProgress:(CGFloat)newProgress;
-@end
+@end 

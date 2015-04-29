@@ -9,7 +9,7 @@
 #import "UIScrollView+STRefresh.h"
 #import <objc/runtime.h>
 #import <PureLayout.h>
-#import "TestView.h"
+
 #import "STRefreshHeaderView.h"
 
 static char UIScrollViewParallaxHeader;
